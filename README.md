@@ -1,17 +1,3 @@
-# Resume Ranking System
-
-## Overview
-
-The Resume Ranking System is a powerful tool designed to streamline the recruitment process by automatically evaluating and ranking resumes based on relevant criteria.
-
-## Architecture
-
-<p align="center">
-  <img src="./assets/architecture.png" alt="Architecture" />
-  <br>
-  <em>System Architecture</em>
-</p>
-
 ## Features
 
 - **Job Analysis**:

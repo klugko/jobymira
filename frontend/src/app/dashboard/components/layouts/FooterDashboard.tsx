@@ -133,9 +133,9 @@ const FooterDashboard = (props: Props) => {
         </div>
       </div> */}
       <p className="my-10 text-sm text-center text-gray-500">
-        &copy; 2023{" "}
+        &copy; 2024{" "}
         <a href="#" className="hover:underline" target="_blank">
-          Jobfit
+          Team Tklug -JobyMira
         </a>
         . All rights reserved.
       </p>

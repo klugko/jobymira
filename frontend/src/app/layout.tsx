@@ -12,8 +12,8 @@ const roboto_mono = Roboto_Mono({
 });
 
 export const metadata = {
-  title: "CODEX - Jobfit",
-  description: "CODEX - Jobfit",
+  title: "team - Tklug",
+  description: "Team - Tklug",
 };
 
 export default async function RootLayout({
