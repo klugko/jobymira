@@ -33,7 +33,7 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https:/
+   git clone https://github.com/klugko/jobymira.git
    ```
 
 2. **Update environment**:
