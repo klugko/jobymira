@@ -52,7 +52,7 @@
 3. **Install Dependencies**:
 
    ```bash
-   cd resume-ranking
+   cd jobymira
    docker compose build
    ```
 
